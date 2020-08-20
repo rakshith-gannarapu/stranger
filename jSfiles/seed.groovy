@@ -1,5 +1,5 @@
 base_path = "stranger"
-job_path = "${base_path}/jsfiles"
+job_path = "${base_path}/jSfiles"
 folder("${base_path}")
 
 pipelineJob(job_path) {
